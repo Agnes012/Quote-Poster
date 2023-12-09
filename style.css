@@ -1,0 +1,29 @@
+  @import url('https://fonts.googleapis.com/css2?family=Archivo&family=Bree+Serif&family=Exo+2:wght@400;500&family=Open+Sans&family=Orbitron:wght@700&family=Poppins:wght@300;400&family=Roboto&family=Ubuntu&family=Varela+Round&display=swap');
+
+*{
+    margin: 0px;
+    font-family: 'Varela Round', sans-serif;
+    background-color: black;
+}
+.box{
+    width: 50%;
+    margin: 40px auto ; 
+}
+#dove{
+    width: 100%;
+    border: 4px solid whitesmoke;
+    box-shadow: 2px 4px rgb(0, 0, 0);
+    margin-bottom: 10px;
+
+}
+.quote{
+    color: white;
+    text-align: center;
+    padding: 8px 5px;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 35px;
+}
